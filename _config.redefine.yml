@@ -11,11 +11,11 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme Redefine
+  title: Stridebeach
   # Site subtitle
   subtitle: Redefine Your Hexo Journey.
   # Author name
-  author: The Redefine Team
+  author: Strideebach
   # Site URL
   url: https://redefine.ohevan.com
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -222,12 +222,12 @@ navbar:
         Github: https://github.com/EvanNotFound/hexo-theme-redefine
         Blog: https://ohevan.com
         Friends: /friends
-    友链: 
-      icon: fa-regular fa-link
-      submenus:
-        Link1: /link1
-        Link2: /link2
-        Link3: /link3
+    #友链: 
+      #icon: fa-regular fa-link
+      #submenus:
+      #  Link1: /link1
+      #  Link2: /link2
+      #  Link3: /link3
     # ...... # you can add more
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
