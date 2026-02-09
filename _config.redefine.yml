@@ -138,7 +138,6 @@ home_banner:
   # Home banner subtitle
   subtitle:
     text: [“欢迎偷窥我的小空间”] # subtitle text, array
-    typing_speed:100
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -151,8 +150,8 @@ home_banner:
     smart_backspace: true # Whether to smart backspace
   # Color of home banner text
   text_color: 
-    light: "#fff" # light mode
-    dark: "#d1d1b6" # dark mode
+    light: "#000000" # light mode
+    dark: "#ffffff" # dark mode
   # Specific style of the text
   text_style: 
     # Title font size
