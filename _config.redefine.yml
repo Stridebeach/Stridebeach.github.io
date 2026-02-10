@@ -374,10 +374,10 @@ comment:
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
     giscus:
-      repo: Stridebeach/Stridebeach.github.io# Github repository name e.g. EvanNotFound/hexo-theme-redefine
-      repo_id: "R_kgDORILtkw"# Github repository id
-      category: "Announcements"# Github discussion category
-      category_id: "DIC_kwDORILtk84C2JCE"# Github discussion category id
+      repo: Stridebeach/Stridebeach.github.io 
+      repo_id: "R_kgDORILtkw" 
+      category: "Announcements" 
+      category_id: "DIC_kwDORILtk84C2JCE" 
       mapping: pathname # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
       strict: 0 # Whether to enable strict mode. e.g. 0, 1
       reactions_enabled: 1 # Whether to enable reactions. e.g. 0, 1
