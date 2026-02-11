@@ -216,7 +216,7 @@ navbar:
       icon: fa-regular fa-chart-bar
     关于我: 
       icon: fa-regular fa-user
-      Me: /about
+      Me: /_posts/喜报：新的个人网站建成.md
     友链: 
       icon: fa-regular fa-link
       submenus:
