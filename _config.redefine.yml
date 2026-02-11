@@ -13,11 +13,12 @@ info:
   # Site title
   title: Stridebeach
   # Site subtitle
-  subtitle: Redefine Your Hexo Journey.
+  subtitle: 到底有多强？
   # Author name
   author: Stridebeach
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://stridebeach.github.io
+  share: true
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -25,9 +26,8 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
-  # Site logo
-  logo: 
+  favicon: /images/avatar.jpg  # Site logo
+  logo: /images/avatar.jpg
   # Site avatar
   avatar: /images/avatar.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
