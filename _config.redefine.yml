@@ -216,7 +216,8 @@ navbar:
       icon: fa-regular fa-chart-bar
     关于我: 
       icon: fa-regular fa-user
-      Me: /_posts/喜报：新的个人网站建成.md
+      path: /2026/02/10/喜报：新的个人网站建成/
+      Me: /about
     友链: 
       icon: fa-regular fa-link
       submenus:
@@ -246,15 +247,15 @@ home:
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     scale: false
     links:
-      # Archives: 
-      #   path: /archives 
-      #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
-      #   path: /tags 
-      #   icon: fa-regular fa-tags # can be empty
-      # Categories: 
-      #   path: /categories 
-      #   icon: fa-regular fa-folder # can be empty
+      Archives: 
+        path: /archives 
+        icon: fa-regular fa-archive # can be empty
+      Tags: 
+        path: /tags 
+        icon: fa-regular fa-tags # can be empty
+      Categories: 
+        path: /categories 
+        icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
